@@ -28,8 +28,8 @@ If you use Anaconda, use: conda create -n sentiment-env python=3.10
 
 ```bash
 pip install -r requirements.txt
-NLTK Data Setup: The project uses NLTK for text processing. You must download the required stopwords data package once:
 ```
+NLTK Data Setup: The project uses NLTK for text processing. You must download the required stopwords data package once:
 ```python
 import nltk
 nltk.download('stopwords')
