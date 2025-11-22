@@ -24,14 +24,13 @@ source venv/bin/activate
 If you use Anaconda, use: conda create -n sentiment-env python=3.10
 ```
 
-# Install Dependencies:
+## Install Dependencies:
 
 ```bash
 pip install -r requirements.txt
 NLTK Data Setup: The project uses NLTK for text processing. You must download the required stopwords data package once:
-
-Python
-
+```
+```python
 import nltk
 nltk.download('stopwords')
 ```
