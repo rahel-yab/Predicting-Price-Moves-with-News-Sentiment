@@ -10,21 +10,21 @@ These instructions will get a copy of the project up and running on your local m
 ## Prerequisites
 This project requires Python 3.8+ and uses a virtual environment for dependency management.
 
- ## Clone the Repository:
+ ### Clone the Repository:
 
 ```bash
 
 git clone https://github.com/your-username/your-repo-name.git
 cd predicting-price-moves
 ```
- ## Create & Activate Virtual Environment:
+ ### Create & Activate Virtual Environment:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 If you use Anaconda, use: conda create -n sentiment-env python=3.10
 ```
 
-## Install Dependencies:
+### Install Dependencies:
 
 ```bash
 pip install -r requirements.txt
