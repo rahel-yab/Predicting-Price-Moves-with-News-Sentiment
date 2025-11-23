@@ -14,8 +14,7 @@ This project requires Python 3.8+ and uses a virtual environment for dependency 
 
 ```bash
 
-git clone https://github.com/your-username/your-repo-name.git
-cd predicting-price-moves
+git clone https://github.com/rahel-yab/Predicting-Price-Moves-with-News-Sentiment.git
 ```
  ### Create & Activate Virtual Environment:
 ```bash
