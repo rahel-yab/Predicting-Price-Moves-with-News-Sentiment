@@ -5,3 +5,5 @@ requests
 flask
 matplotlib
 scipy
+PyNance
+ta-lib
